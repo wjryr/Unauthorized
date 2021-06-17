@@ -6,7 +6,7 @@
 水平有限，工具可能会漏报或误报，一切以手工为准
 
 检测以下常见未授权访问
-	Actuator、Kylin、Flink、Solr、Hadoop、CouchDB、Docker Api、Elasticsearch、Memcached、 	    Zookeeper、Redis、MongoDB
+Actuator、Kylin、Flink、Solr、Hadoop、CouchDB、Docker、Api、Elasticsearch、Memcached、Zookeeper、Redis、MongoDB
 	
 工具截图
 ```
